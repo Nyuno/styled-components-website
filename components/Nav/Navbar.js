@@ -11,6 +11,7 @@ import NavLinks from './NavLinks'
 import Social from './Social'
 import Logo from './Logo'
 import MobileNavbar from './MobileNavbar'
+import SearchWithAlgolia from './SearchWithAlgolia'
 
 const Wrapper = styled.nav`
   position: fixed;
@@ -24,7 +25,7 @@ const Wrapper = styled.nav`
   font-family: ${headerFont};
   font-size: ${rem(15)};
   font-weight: 500;
-  background: ${props => props.transparent ? 'transparent' : violetRed};
+  background: ${props => (props.transparent ? 'transparent' : violetRed)};
   transition: background 300ms ease-out;
   color: white;
 `
@@ -37,7 +38,7 @@ const NormalNavbar = styled.div`
 
   ${mobile(css`
     display: none;
-  `)}
+  `)};
 `
 
 const StartWrapper = styled.div`
@@ -84,7 +85,7 @@ class Navbar extends PureComponent {
           </StartWrapper>
 
           <EndWrapper>
-            <input id="docsearch" />
+            <SearchWithAlgolia />
             <Social />
           </EndWrapper>
         </NormalNavbar>

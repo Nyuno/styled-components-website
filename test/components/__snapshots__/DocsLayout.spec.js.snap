@@ -12,9 +12,9 @@ exports[`DocsLayout renders correctly 1`] = `
           "$$typeof": Symbol(react.forward_ref),
           "attrs": undefined,
           "componentStyle": ComponentStyle {
-            "componentId": "sc-hMqMXs",
+            "componentId": "sc-iAyFgw",
             "isStatic": true,
-            "lastClassName": "fEzWfe",
+            "lastClassName": "FSiIn",
             "rules": Array [
               "
   padding-left: ",
@@ -39,7 +39,7 @@ exports[`DocsLayout renders correctly 1`] = `
           },
           "displayName": "styled.div",
           "render": [Function],
-          "styledComponentId": "sc-hMqMXs",
+          "styledComponentId": "sc-iAyFgw",
           "target": "div",
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
@@ -48,7 +48,7 @@ exports[`DocsLayout renders correctly 1`] = `
       forwardedRef={null}
     >
       <div
-        className="fEzWfe"
+        className="FSiIn"
       >
         <SeoHead
           description=""
@@ -80,9 +80,9 @@ exports[`DocsLayout renders correctly 1`] = `
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": undefined,
                       "componentStyle": ComponentStyle {
-                        "componentId": "sc-jzJRlG",
+                        "componentId": "sc-chPdSV",
                         "isStatic": false,
-                        "lastClassName": "ihgQwU",
+                        "lastClassName": "dBYYEo",
                         "rules": Array [
                           "
   position: fixed;
@@ -112,7 +112,7 @@ exports[`DocsLayout renders correctly 1`] = `
                       },
                       "displayName": "styled.nav",
                       "render": [Function],
-                      "styledComponentId": "sc-jzJRlG",
+                      "styledComponentId": "sc-chPdSV",
                       "target": "nav",
                       "warnTooManyClasses": [Function],
                       "withComponent": [Function],
@@ -121,7 +121,7 @@ exports[`DocsLayout renders correctly 1`] = `
                   forwardedRef={null}
                 >
                   <nav
-                    className="ihgQwU"
+                    className="dBYYEo"
                   >
                     <ForwardRef>
                       <BaseStyledComponent
@@ -130,9 +130,9 @@ exports[`DocsLayout renders correctly 1`] = `
                             "$$typeof": Symbol(react.forward_ref),
                             "attrs": undefined,
                             "componentStyle": ComponentStyle {
-                              "componentId": "sc-cSHVUG",
+                              "componentId": "sc-kgoBCf",
                               "isStatic": true,
-                              "lastClassName": "fIzcWS",
+                              "lastClassName": "bFaagy",
                               "rules": Array [
                                 "
   display: flex;
@@ -154,13 +154,13 @@ exports[`DocsLayout renders correctly 1`] = `
                                 "
   }
 ",
-                                "
+                                ";
 ",
                               ],
                             },
                             "displayName": "styled.div",
                             "render": [Function],
-                            "styledComponentId": "sc-cSHVUG",
+                            "styledComponentId": "sc-kgoBCf",
                             "target": "div",
                             "warnTooManyClasses": [Function],
                             "withComponent": [Function],
@@ -169,7 +169,7 @@ exports[`DocsLayout renders correctly 1`] = `
                         forwardedRef={null}
                       >
                         <div
-                          className="fIzcWS"
+                          className="bFaagy"
                         >
                           <ForwardRef>
                             <BaseStyledComponent
@@ -178,9 +178,9 @@ exports[`DocsLayout renders correctly 1`] = `
                                   "$$typeof": Symbol(react.forward_ref),
                                   "attrs": undefined,
                                   "componentStyle": ComponentStyle {
-                                    "componentId": "sc-kAzzGY",
+                                    "componentId": "sc-kGXeez",
                                     "isStatic": true,
-                                    "lastClassName": "kWHtZp",
+                                    "lastClassName": "kArLaP",
                                     "rules": Array [
                                       "
   display: flex;
@@ -191,7 +191,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                   },
                                   "displayName": "styled.div",
                                   "render": [Function],
-                                  "styledComponentId": "sc-kAzzGY",
+                                  "styledComponentId": "sc-kGXeez",
                                   "target": "div",
                                   "warnTooManyClasses": [Function],
                                   "withComponent": [Function],
@@ -200,7 +200,7 @@ exports[`DocsLayout renders correctly 1`] = `
                               forwardedRef={null}
                             >
                               <div
-                                className="kWHtZp"
+                                className="kArLaP"
                               >
                                 <ForwardRef>
                                   <BaseStyledComponent
@@ -212,9 +212,9 @@ exports[`DocsLayout renders correctly 1`] = `
                                           "unstyled": true,
                                         },
                                         "componentStyle": ComponentStyle {
-                                          "componentId": "sc-kgoBCf",
+                                          "componentId": "sc-dxgOiQ",
                                           "isStatic": true,
-                                          "lastClassName": "ffEHFQ",
+                                          "lastClassName": "cTZjsO",
                                           "rules": Array [
                                             "
   display: inline-block;
@@ -227,7 +227,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                         },
                                         "displayName": "Styled(Link)",
                                         "render": [Function],
-                                        "styledComponentId": "sc-kgoBCf",
+                                        "styledComponentId": "sc-dxgOiQ",
                                         "target": [Function],
                                         "warnTooManyClasses": [Function],
                                         "withComponent": [Function],
@@ -237,7 +237,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                     forwardedRef={null}
                                   >
                                     <Link
-                                      className="ffEHFQ"
+                                      className="cTZjsO"
                                       href="/"
                                       unstyled={true}
                                     >
@@ -245,7 +245,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                         href="/"
                                       >
                                         <a
-                                          className="ffEHFQ"
+                                          className="cTZjsO"
                                           href="/"
                                           onClick={[Function]}
                                         >
@@ -644,9 +644,9 @@ exports[`DocsLayout renders correctly 1`] = `
                                   "$$typeof": Symbol(react.forward_ref),
                                   "attrs": undefined,
                                   "componentStyle": ComponentStyle {
-                                    "componentId": "sc-chPdSV",
+                                    "componentId": "sc-kpOJdX",
                                     "isStatic": true,
-                                    "lastClassName": "hbBwFX",
+                                    "lastClassName": "kYDeDp",
                                     "rules": Array [
                                       "
   display: flex;
@@ -657,7 +657,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                   },
                                   "displayName": "styled.div",
                                   "render": [Function],
-                                  "styledComponentId": "sc-chPdSV",
+                                  "styledComponentId": "sc-kpOJdX",
                                   "target": "div",
                                   "warnTooManyClasses": [Function],
                                   "withComponent": [Function],
@@ -666,11 +666,198 @@ exports[`DocsLayout renders correctly 1`] = `
                               forwardedRef={null}
                             >
                               <div
-                                className="hbBwFX"
+                                className="kYDeDp"
                               >
-                                <input
-                                  id="docsearch"
-                                />
+                                <SearchWithAlgolia>
+                                  <Search>
+                                    <ForwardRef>
+                                      <BaseStyledComponent
+                                        forwardedClass={
+                                          Object {
+                                            "$$typeof": Symbol(react.forward_ref),
+                                            "attrs": undefined,
+                                            "componentStyle": ComponentStyle {
+                                              "componentId": "sc-dnqmqq",
+                                              "isStatic": true,
+                                              "lastClassName": "llQBJL",
+                                              "rules": Array [
+                                                "
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex: 0 0 auto;
+",
+                                              ],
+                                            },
+                                            "displayName": "styled.form",
+                                            "render": [Function],
+                                            "styledComponentId": "sc-dnqmqq",
+                                            "target": "form",
+                                            "warnTooManyClasses": [Function],
+                                            "withComponent": [Function],
+                                          }
+                                        }
+                                        forwardedRef={null}
+                                      >
+                                        <form
+                                          className="llQBJL"
+                                        >
+                                          <SearchButton>
+                                            <ForwardRef>
+                                              <BaseStyledComponent
+                                                forwardedClass={
+                                                  Object {
+                                                    "$$typeof": Symbol(react.forward_ref),
+                                                    "attrs": undefined,
+                                                    "componentStyle": ComponentStyle {
+                                                      "componentId": "sc-gZMcBi",
+                                                      "isStatic": true,
+                                                      "lastClassName": "dPjGUE",
+                                                      "rules": Array [
+                                                        "
+  ",
+                                                        "
+  background: none;
+  outline: none;
+  border: none;
+",
+                                                        " flex: 0 0 auto;
+  height: ",
+                                                        "2.7777777777777777rem",
+                                                        ";
+  margin-right: ",
+                                                        "0.2222222222222222rem",
+                                                        ";
+  cursor: pointer;
+
+  &:hover,
+  &:focus {
+    opacity: 0.7;
+    filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.2));
+  }
+
+  &:active {
+    background: rgba(0, 0, 0, 0.1);
+  }
+
+  svg {
+    width: ",
+                                                        "0.8888888888888888rem",
+                                                        ";
+    height: ",
+                                                        "0.9444444444444444rem",
+                                                        ";
+
+    path {
+      fill: currentColor;
+    }
+  }
+",
+                                                      ],
+                                                    },
+                                                    "displayName": "styled.button",
+                                                    "render": [Function],
+                                                    "styledComponentId": "sc-gZMcBi",
+                                                    "target": "button",
+                                                    "warnTooManyClasses": [Function],
+                                                    "withComponent": [Function],
+                                                  }
+                                                }
+                                                forwardedRef={null}
+                                              >
+                                                <button
+                                                  className="dPjGUE"
+                                                >
+                                                  <svg
+                                                    height="16"
+                                                    width="15"
+                                                    xmlns="http://www.w3.org/2000/svg"
+                                                    xmlnsXlink="http://www.w3.org/1999/xlink"
+                                                  >
+                                                    <title>
+                                                      search
+                                                    </title>
+                                                    <use
+                                                      fill="#FFF"
+                                                      xlinkHref="#search-icon"
+                                                    />
+                                                    <defs>
+                                                      <path
+                                                        d="M14.772 14.573l-3.698-3.96c.95-1.164 1.472-2.628 1.472-4.153C12.546 2.898 9.732 0 6.273 0 2.813 0 0 2.898 0 6.46s2.814 6.46 6.273 6.46c1.298 0 2.536-.403 3.594-1.17l3.726 3.992c.155.166.365.258.59.258.212 0 .413-.083.566-.235.32-.322.33-.857.02-1.192zm-8.5-12.888c2.558 0 4.637 2.142 4.637 4.775 0 2.633-2.08 4.775-4.64 4.775-2.56 0-4.64-2.142-4.64-4.775 0-2.633 2.08-4.775 4.637-4.775z"
+                                                        id="search-icon"
+                                                      />
+                                                    </defs>
+                                                  </svg>
+                                                </button>
+                                              </BaseStyledComponent>
+                                            </ForwardRef>
+                                          </SearchButton>
+                                          <ForwardRef
+                                            id="docs-search-input"
+                                            placeholder="Search docs ..."
+                                          >
+                                            <BaseStyledComponent
+                                              forwardedClass={
+                                                Object {
+                                                  "$$typeof": Symbol(react.forward_ref),
+                                                  "attrs": undefined,
+                                                  "componentStyle": ComponentStyle {
+                                                    "componentId": "sc-iwsKbI",
+                                                    "isStatic": true,
+                                                    "lastClassName": "hOBHhj",
+                                                    "rules": Array [
+                                                      "
+  ",
+                                                      "
+  background: none;
+  outline: none;
+  border: none;
+",
+                                                      " flex: 0 0 auto;
+  width: ",
+                                                      "7.222222222222222rem",
+                                                      ";
+  line-height: ",
+                                                      "1.6666666666666667rem",
+                                                      ";
+  font-size: ",
+                                                      "0.8333333333333334rem",
+                                                      ";
+  color: currentColor;
+  ::placeholder {
+    color: currentColor;
+    opacity: 0.5;
+  }
+  &:focus {
+    border-bottom: 1px solid currentColor;
+  }
+",
+                                                    ],
+                                                  },
+                                                  "displayName": "styled.input",
+                                                  "render": [Function],
+                                                  "styledComponentId": "sc-iwsKbI",
+                                                  "target": "input",
+                                                  "warnTooManyClasses": [Function],
+                                                  "withComponent": [Function],
+                                                }
+                                              }
+                                              forwardedRef={null}
+                                              id="docs-search-input"
+                                              placeholder="Search docs ..."
+                                            >
+                                              <input
+                                                className="hOBHhj"
+                                                id="docs-search-input"
+                                                placeholder="Search docs ..."
+                                              />
+                                            </BaseStyledComponent>
+                                          </ForwardRef>
+                                        </form>
+                                      </BaseStyledComponent>
+                                    </ForwardRef>
+                                  </Search>
+                                </SearchWithAlgolia>
                                 <Social>
                                   <ForwardRef>
                                     <BaseStyledComponent
@@ -1128,9 +1315,9 @@ exports[`DocsLayout renders correctly 1`] = `
                               "$$typeof": Symbol(react.forward_ref),
                               "attrs": undefined,
                               "componentStyle": ComponentStyle {
-                                "componentId": "sc-gZMcBi",
+                                "componentId": "sc-jTzLTM",
                                 "isStatic": true,
-                                "lastClassName": "bKEueB",
+                                "lastClassName": "kvPSzS",
                                 "rules": Array [
                                   "
   display: none;
@@ -1158,7 +1345,7 @@ exports[`DocsLayout renders correctly 1`] = `
                               },
                               "displayName": "styled.div",
                               "render": [Function],
-                              "styledComponentId": "sc-gZMcBi",
+                              "styledComponentId": "sc-jTzLTM",
                               "target": "div",
                               "warnTooManyClasses": [Function],
                               "withComponent": [Function],
@@ -1167,7 +1354,7 @@ exports[`DocsLayout renders correctly 1`] = `
                           forwardedRef={null}
                         >
                           <div
-                            className="bKEueB"
+                            className="kvPSzS"
                           >
                             <ForwardRef
                               active={false}
@@ -1180,9 +1367,9 @@ exports[`DocsLayout renders correctly 1`] = `
                                     "$$typeof": Symbol(react.forward_ref),
                                     "attrs": undefined,
                                     "componentStyle": ComponentStyle {
-                                      "componentId": "sc-iwsKbI",
+                                      "componentId": "sc-VigVT",
                                       "isStatic": false,
-                                      "lastClassName": "ebcZig",
+                                      "lastClassName": "rLjtG",
                                       "rules": Array [
                                         "
   ",
@@ -1221,7 +1408,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                     },
                                     "displayName": "styled.button",
                                     "render": [Function],
-                                    "styledComponentId": "sc-iwsKbI",
+                                    "styledComponentId": "sc-VigVT",
                                     "target": "button",
                                     "warnTooManyClasses": [Function],
                                     "withComponent": [Function],
@@ -1231,7 +1418,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                 onClick={[Function]}
                               >
                                 <button
-                                  className="ebcZig"
+                                  className="rLjtG"
                                   onClick={[Function]}
                                 >
                                   <FoldIcon>
@@ -1247,9 +1434,9 @@ exports[`DocsLayout renders correctly 1`] = `
                                             "$$typeof": Symbol(react.forward_ref),
                                             "attrs": undefined,
                                             "componentStyle": ComponentStyle {
-                                              "componentId": "sc-dnqmqq",
+                                              "componentId": "sc-gqjmRU",
                                               "isStatic": true,
-                                              "lastClassName": "YyuYi",
+                                              "lastClassName": "fHqCQp",
                                               "rules": Array [
                                                 "
   svg {
@@ -1264,7 +1451,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                             },
                                             "displayName": "styled.svg",
                                             "render": [Function],
-                                            "styledComponentId": "sc-dnqmqq",
+                                            "styledComponentId": "sc-gqjmRU",
                                             "target": "svg",
                                             "warnTooManyClasses": [Function],
                                             "withComponent": [Function],
@@ -1277,7 +1464,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                         xmlnsXlink="http://www.w3.org/1999/xlink"
                                       >
                                         <svg
-                                          className="YyuYi"
+                                          className="fHqCQp"
                                           height="14"
                                           width="17"
                                           xmlns="http://www.w3.org/2000/svg"
@@ -1315,9 +1502,9 @@ exports[`DocsLayout renders correctly 1`] = `
                                       "unstyled": true,
                                     },
                                     "componentStyle": ComponentStyle {
-                                      "componentId": "sc-VigVT",
+                                      "componentId": "sc-jzJRlG",
                                       "isStatic": true,
-                                      "lastClassName": "gViPaM",
+                                      "lastClassName": "ePZooh",
                                       "rules": Array [
                                         "
   display: inline-block;
@@ -1327,7 +1514,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                     },
                                     "displayName": "Styled(Link)",
                                     "render": [Function],
-                                    "styledComponentId": "sc-VigVT",
+                                    "styledComponentId": "sc-jzJRlG",
                                     "target": [Function],
                                     "warnTooManyClasses": [Function],
                                     "withComponent": [Function],
@@ -1338,7 +1525,7 @@ exports[`DocsLayout renders correctly 1`] = `
                               >
                                 <Link
                                   aria-label="styled components"
-                                  className="gViPaM"
+                                  className="ePZooh"
                                   href="/"
                                   unstyled={true}
                                 >
@@ -1348,7 +1535,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                   >
                                     <a
                                       aria-label="styled components"
-                                      className="gViPaM"
+                                      className="ePZooh"
                                       href="/"
                                       onClick={[Function]}
                                     >
@@ -1411,9 +1598,9 @@ exports[`DocsLayout renders correctly 1`] = `
                                     "$$typeof": Symbol(react.forward_ref),
                                     "attrs": undefined,
                                     "componentStyle": ComponentStyle {
-                                      "componentId": "sc-iwsKbI",
+                                      "componentId": "sc-VigVT",
                                       "isStatic": false,
-                                      "lastClassName": "ebcZig",
+                                      "lastClassName": "rLjtG",
                                       "rules": Array [
                                         "
   ",
@@ -1452,7 +1639,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                     },
                                     "displayName": "styled.button",
                                     "render": [Function],
-                                    "styledComponentId": "sc-iwsKbI",
+                                    "styledComponentId": "sc-VigVT",
                                     "target": "button",
                                     "warnTooManyClasses": [Function],
                                     "withComponent": [Function],
@@ -1462,7 +1649,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                 onClick={[Function]}
                               >
                                 <button
-                                  className="ebcZig"
+                                  className="rLjtG"
                                   onClick={[Function]}
                                 >
                                   <ForwardRef
@@ -1474,9 +1661,9 @@ exports[`DocsLayout renders correctly 1`] = `
                                           "$$typeof": Symbol(react.forward_ref),
                                           "attrs": undefined,
                                           "componentStyle": ComponentStyle {
-                                            "componentId": "sc-jTzLTM",
+                                            "componentId": "sc-cSHVUG",
                                             "isStatic": false,
-                                            "lastClassName": "fEEGxg",
+                                            "lastClassName": "fEuQAz",
                                             "rules": Array [
                                               "
   transition: transform 0.1s;
@@ -1489,7 +1676,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                           },
                                           "displayName": "styled.div",
                                           "render": [Function],
-                                          "styledComponentId": "sc-jTzLTM",
+                                          "styledComponentId": "sc-cSHVUG",
                                           "target": "div",
                                           "warnTooManyClasses": [Function],
                                           "withComponent": [Function],
@@ -1499,7 +1686,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                       shouldRotate={false}
                                     >
                                       <div
-                                        className="fEEGxg"
+                                        className="fEuQAz"
                                       >
                                         <ArrowIcon>
                                           <ForwardRef
@@ -1514,9 +1701,9 @@ exports[`DocsLayout renders correctly 1`] = `
                                                   "$$typeof": Symbol(react.forward_ref),
                                                   "attrs": undefined,
                                                   "componentStyle": ComponentStyle {
-                                                    "componentId": "sc-dnqmqq",
+                                                    "componentId": "sc-gqjmRU",
                                                     "isStatic": true,
-                                                    "lastClassName": "YyuYi",
+                                                    "lastClassName": "fHqCQp",
                                                     "rules": Array [
                                                       "
   svg {
@@ -1531,7 +1718,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                                   },
                                                   "displayName": "styled.svg",
                                                   "render": [Function],
-                                                  "styledComponentId": "sc-dnqmqq",
+                                                  "styledComponentId": "sc-gqjmRU",
                                                   "target": "svg",
                                                   "warnTooManyClasses": [Function],
                                                   "withComponent": [Function],
@@ -1544,7 +1731,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                               xmlnsXlink="http://www.w3.org/1999/xlink"
                                             >
                                               <svg
-                                                className="YyuYi"
+                                                className="fHqCQp"
                                                 height="8"
                                                 width="12"
                                                 xmlns="http://www.w3.org/2000/svg"
@@ -1583,9 +1770,9 @@ exports[`DocsLayout renders correctly 1`] = `
                                     "$$typeof": Symbol(react.forward_ref),
                                     "attrs": undefined,
                                     "componentStyle": ComponentStyle {
-                                      "componentId": "sc-gqjmRU",
+                                      "componentId": "sc-fjdhpX",
                                       "isStatic": false,
-                                      "lastClassName": "bwvuDN",
+                                      "lastClassName": "cuabFt",
                                       "rules": Array [
                                         "
   position: absolute;
@@ -1620,7 +1807,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                     },
                                     "displayName": "styled.div",
                                     "render": [Function],
-                                    "styledComponentId": "sc-gqjmRU",
+                                    "styledComponentId": "sc-fjdhpX",
                                     "target": "div",
                                     "warnTooManyClasses": [Function],
                                     "withComponent": [Function],
@@ -1630,7 +1817,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                 isOpen={false}
                               >
                                 <div
-                                  className="bwvuDN"
+                                  className="cuabFt"
                                 >
                                   <NavLinks>
                                     <ForwardRef>
@@ -2023,9 +2210,9 @@ exports[`DocsLayout renders correctly 1`] = `
                                           "$$typeof": Symbol(react.forward_ref),
                                           "attrs": undefined,
                                           "componentStyle": ComponentStyle {
-                                            "componentId": "sc-fjdhpX",
+                                            "componentId": "sc-kAzzGY",
                                             "isStatic": true,
-                                            "lastClassName": "eVtpYT",
+                                            "lastClassName": "jdhLjy",
                                             "rules": Array [
                                               "padding-right: ",
                                               "1.1111111111111112rem",
@@ -2034,7 +2221,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                           },
                                           "displayName": "styled.div",
                                           "render": [Function],
-                                          "styledComponentId": "sc-fjdhpX",
+                                          "styledComponentId": "sc-kAzzGY",
                                           "target": "div",
                                           "warnTooManyClasses": [Function],
                                           "withComponent": [Function],
@@ -2043,8 +2230,198 @@ exports[`DocsLayout renders correctly 1`] = `
                                       forwardedRef={null}
                                     >
                                       <div
-                                        className="eVtpYT"
+                                        className="jdhLjy"
                                       >
+                                        <SearchWithAlgolia>
+                                          <Search>
+                                            <ForwardRef>
+                                              <BaseStyledComponent
+                                                forwardedClass={
+                                                  Object {
+                                                    "$$typeof": Symbol(react.forward_ref),
+                                                    "attrs": undefined,
+                                                    "componentStyle": ComponentStyle {
+                                                      "componentId": "sc-dnqmqq",
+                                                      "isStatic": true,
+                                                      "lastClassName": "llQBJL",
+                                                      "rules": Array [
+                                                        "
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex: 0 0 auto;
+",
+                                                      ],
+                                                    },
+                                                    "displayName": "styled.form",
+                                                    "render": [Function],
+                                                    "styledComponentId": "sc-dnqmqq",
+                                                    "target": "form",
+                                                    "warnTooManyClasses": [Function],
+                                                    "withComponent": [Function],
+                                                  }
+                                                }
+                                                forwardedRef={null}
+                                              >
+                                                <form
+                                                  className="llQBJL"
+                                                >
+                                                  <SearchButton>
+                                                    <ForwardRef>
+                                                      <BaseStyledComponent
+                                                        forwardedClass={
+                                                          Object {
+                                                            "$$typeof": Symbol(react.forward_ref),
+                                                            "attrs": undefined,
+                                                            "componentStyle": ComponentStyle {
+                                                              "componentId": "sc-gZMcBi",
+                                                              "isStatic": true,
+                                                              "lastClassName": "dPjGUE",
+                                                              "rules": Array [
+                                                                "
+  ",
+                                                                "
+  background: none;
+  outline: none;
+  border: none;
+",
+                                                                " flex: 0 0 auto;
+  height: ",
+                                                                "2.7777777777777777rem",
+                                                                ";
+  margin-right: ",
+                                                                "0.2222222222222222rem",
+                                                                ";
+  cursor: pointer;
+
+  &:hover,
+  &:focus {
+    opacity: 0.7;
+    filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.2));
+  }
+
+  &:active {
+    background: rgba(0, 0, 0, 0.1);
+  }
+
+  svg {
+    width: ",
+                                                                "0.8888888888888888rem",
+                                                                ";
+    height: ",
+                                                                "0.9444444444444444rem",
+                                                                ";
+
+    path {
+      fill: currentColor;
+    }
+  }
+",
+                                                              ],
+                                                            },
+                                                            "displayName": "styled.button",
+                                                            "render": [Function],
+                                                            "styledComponentId": "sc-gZMcBi",
+                                                            "target": "button",
+                                                            "warnTooManyClasses": [Function],
+                                                            "withComponent": [Function],
+                                                          }
+                                                        }
+                                                        forwardedRef={null}
+                                                      >
+                                                        <button
+                                                          className="dPjGUE"
+                                                        >
+                                                          <svg
+                                                            height="16"
+                                                            width="15"
+                                                            xmlns="http://www.w3.org/2000/svg"
+                                                            xmlnsXlink="http://www.w3.org/1999/xlink"
+                                                          >
+                                                            <title>
+                                                              search
+                                                            </title>
+                                                            <use
+                                                              fill="#FFF"
+                                                              xlinkHref="#search-icon"
+                                                            />
+                                                            <defs>
+                                                              <path
+                                                                d="M14.772 14.573l-3.698-3.96c.95-1.164 1.472-2.628 1.472-4.153C12.546 2.898 9.732 0 6.273 0 2.813 0 0 2.898 0 6.46s2.814 6.46 6.273 6.46c1.298 0 2.536-.403 3.594-1.17l3.726 3.992c.155.166.365.258.59.258.212 0 .413-.083.566-.235.32-.322.33-.857.02-1.192zm-8.5-12.888c2.558 0 4.637 2.142 4.637 4.775 0 2.633-2.08 4.775-4.64 4.775-2.56 0-4.64-2.142-4.64-4.775 0-2.633 2.08-4.775 4.637-4.775z"
+                                                                id="search-icon"
+                                                              />
+                                                            </defs>
+                                                          </svg>
+                                                        </button>
+                                                      </BaseStyledComponent>
+                                                    </ForwardRef>
+                                                  </SearchButton>
+                                                  <ForwardRef
+                                                    id="docs-search-input"
+                                                    placeholder="Search docs ..."
+                                                  >
+                                                    <BaseStyledComponent
+                                                      forwardedClass={
+                                                        Object {
+                                                          "$$typeof": Symbol(react.forward_ref),
+                                                          "attrs": undefined,
+                                                          "componentStyle": ComponentStyle {
+                                                            "componentId": "sc-iwsKbI",
+                                                            "isStatic": true,
+                                                            "lastClassName": "hOBHhj",
+                                                            "rules": Array [
+                                                              "
+  ",
+                                                              "
+  background: none;
+  outline: none;
+  border: none;
+",
+                                                              " flex: 0 0 auto;
+  width: ",
+                                                              "7.222222222222222rem",
+                                                              ";
+  line-height: ",
+                                                              "1.6666666666666667rem",
+                                                              ";
+  font-size: ",
+                                                              "0.8333333333333334rem",
+                                                              ";
+  color: currentColor;
+  ::placeholder {
+    color: currentColor;
+    opacity: 0.5;
+  }
+  &:focus {
+    border-bottom: 1px solid currentColor;
+  }
+",
+                                                            ],
+                                                          },
+                                                          "displayName": "styled.input",
+                                                          "render": [Function],
+                                                          "styledComponentId": "sc-iwsKbI",
+                                                          "target": "input",
+                                                          "warnTooManyClasses": [Function],
+                                                          "withComponent": [Function],
+                                                        }
+                                                      }
+                                                      forwardedRef={null}
+                                                      id="docs-search-input"
+                                                      placeholder="Search docs ..."
+                                                    >
+                                                      <input
+                                                        className="hOBHhj"
+                                                        id="docs-search-input"
+                                                        placeholder="Search docs ..."
+                                                      />
+                                                    </BaseStyledComponent>
+                                                  </ForwardRef>
+                                                </form>
+                                              </BaseStyledComponent>
+                                            </ForwardRef>
+                                          </Search>
+                                        </SearchWithAlgolia>
                                         <Social>
                                           <ForwardRef>
                                             <BaseStyledComponent
@@ -2509,9 +2886,9 @@ exports[`DocsLayout renders correctly 1`] = `
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": undefined,
                       "componentStyle": ComponentStyle {
-                        "componentId": "sc-kGXeez",
+                        "componentId": "sc-ckVGcZ",
                         "isStatic": false,
-                        "lastClassName": "cAttCw",
+                        "lastClassName": "jXiwrs",
                         "rules": Array [
                           "
   position: fixed;
@@ -2559,7 +2936,7 @@ exports[`DocsLayout renders correctly 1`] = `
                       },
                       "displayName": "styled.nav",
                       "render": [Function],
-                      "styledComponentId": "sc-kGXeez",
+                      "styledComponentId": "sc-ckVGcZ",
                       "target": "nav",
                       "warnTooManyClasses": [Function],
                       "withComponent": [Function],
@@ -2569,7 +2946,7 @@ exports[`DocsLayout renders correctly 1`] = `
                   isFolded={true}
                 >
                   <nav
-                    className="cAttCw"
+                    className="jXiwrs"
                   >
                     <DocsSidebarMenu
                       onRouteChange={[Function]}
@@ -2581,9 +2958,9 @@ exports[`DocsLayout renders correctly 1`] = `
                               "$$typeof": Symbol(react.forward_ref),
                               "attrs": undefined,
                               "componentStyle": ComponentStyle {
-                                "componentId": "sc-kpOJdX",
+                                "componentId": "sc-jKJlTe",
                                 "isStatic": true,
-                                "lastClassName": "gHqoqa",
+                                "lastClassName": "djeIYG",
                                 "rules": Array [
                                   "
   display: block;
@@ -2597,7 +2974,7 @@ exports[`DocsLayout renders correctly 1`] = `
                               },
                               "displayName": "styled.div",
                               "render": [Function],
-                              "styledComponentId": "sc-kpOJdX",
+                              "styledComponentId": "sc-jKJlTe",
                               "target": "div",
                               "warnTooManyClasses": [Function],
                               "withComponent": [Function],
@@ -2606,7 +2983,7 @@ exports[`DocsLayout renders correctly 1`] = `
                           forwardedRef={null}
                         >
                           <div
-                            className="gHqoqa"
+                            className="djeIYG"
                           >
                             <Folder
                               isOpenDefault={false}
@@ -2621,9 +2998,9 @@ exports[`DocsLayout renders correctly 1`] = `
                                       "$$typeof": Symbol(react.forward_ref),
                                       "attrs": undefined,
                                       "componentStyle": ComponentStyle {
-                                        "componentId": "sc-ckVGcZ",
+                                        "componentId": "sc-hMqMXs",
                                         "isStatic": true,
-                                        "lastClassName": "bmfxTR",
+                                        "lastClassName": "kMhXl",
                                         "rules": Array [
                                           "
   margin-bottom: ",
@@ -2634,7 +3011,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                       },
                                       "displayName": "styled.div",
                                       "render": [Function],
-                                      "styledComponentId": "sc-ckVGcZ",
+                                      "styledComponentId": "sc-hMqMXs",
                                       "target": "div",
                                       "warnTooManyClasses": [Function],
                                       "withComponent": [Function],
@@ -2644,7 +3021,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                   onClick={[Function]}
                                 >
                                   <div
-                                    className="bmfxTR"
+                                    className="kMhXl"
                                     onClick={[Function]}
                                   >
                                     <ForwardRef
@@ -2656,9 +3033,9 @@ exports[`DocsLayout renders correctly 1`] = `
                                             "$$typeof": Symbol(react.forward_ref),
                                             "attrs": undefined,
                                             "componentStyle": ComponentStyle {
-                                              "componentId": "sc-jKJlTe",
+                                              "componentId": "sc-kEYyzF",
                                               "isStatic": true,
-                                              "lastClassName": "iIjDed",
+                                              "lastClassName": "hFbWaA",
                                               "rules": Array [
                                                 "
   display: block;
@@ -2673,7 +3050,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                             },
                                             "displayName": "styled.h4",
                                             "render": [Function],
-                                            "styledComponentId": "sc-jKJlTe",
+                                            "styledComponentId": "sc-kEYyzF",
                                             "target": "h4",
                                             "warnTooManyClasses": [Function],
                                             "withComponent": [Function],
@@ -2683,7 +3060,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                         onClick={[Function]}
                                       >
                                         <h4
-                                          className="iIjDed"
+                                          className="hFbWaA"
                                           onClick={[Function]}
                                         >
                                           <Link
@@ -2781,9 +3158,9 @@ exports[`DocsLayout renders correctly 1`] = `
                                       "$$typeof": Symbol(react.forward_ref),
                                       "attrs": undefined,
                                       "componentStyle": ComponentStyle {
-                                        "componentId": "sc-ckVGcZ",
+                                        "componentId": "sc-hMqMXs",
                                         "isStatic": true,
-                                        "lastClassName": "bmfxTR",
+                                        "lastClassName": "kMhXl",
                                         "rules": Array [
                                           "
   margin-bottom: ",
@@ -2794,7 +3171,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                       },
                                       "displayName": "styled.div",
                                       "render": [Function],
-                                      "styledComponentId": "sc-ckVGcZ",
+                                      "styledComponentId": "sc-hMqMXs",
                                       "target": "div",
                                       "warnTooManyClasses": [Function],
                                       "withComponent": [Function],
@@ -2804,7 +3181,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                   onClick={[Function]}
                                 >
                                   <div
-                                    className="bmfxTR"
+                                    className="kMhXl"
                                     onClick={[Function]}
                                   >
                                     <ForwardRef
@@ -2816,9 +3193,9 @@ exports[`DocsLayout renders correctly 1`] = `
                                             "$$typeof": Symbol(react.forward_ref),
                                             "attrs": undefined,
                                             "componentStyle": ComponentStyle {
-                                              "componentId": "sc-jKJlTe",
+                                              "componentId": "sc-kEYyzF",
                                               "isStatic": true,
-                                              "lastClassName": "iIjDed",
+                                              "lastClassName": "hFbWaA",
                                               "rules": Array [
                                                 "
   display: block;
@@ -2833,7 +3210,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                             },
                                             "displayName": "styled.h4",
                                             "render": [Function],
-                                            "styledComponentId": "sc-jKJlTe",
+                                            "styledComponentId": "sc-kEYyzF",
                                             "target": "h4",
                                             "warnTooManyClasses": [Function],
                                             "withComponent": [Function],
@@ -2843,7 +3220,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                         onClick={[Function]}
                                       >
                                         <h4
-                                          className="iIjDed"
+                                          className="hFbWaA"
                                           onClick={[Function]}
                                         >
                                           <Link
@@ -2941,9 +3318,9 @@ exports[`DocsLayout renders correctly 1`] = `
                                       "$$typeof": Symbol(react.forward_ref),
                                       "attrs": undefined,
                                       "componentStyle": ComponentStyle {
-                                        "componentId": "sc-ckVGcZ",
+                                        "componentId": "sc-hMqMXs",
                                         "isStatic": true,
-                                        "lastClassName": "bmfxTR",
+                                        "lastClassName": "kMhXl",
                                         "rules": Array [
                                           "
   margin-bottom: ",
@@ -2954,7 +3331,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                       },
                                       "displayName": "styled.div",
                                       "render": [Function],
-                                      "styledComponentId": "sc-ckVGcZ",
+                                      "styledComponentId": "sc-hMqMXs",
                                       "target": "div",
                                       "warnTooManyClasses": [Function],
                                       "withComponent": [Function],
@@ -2964,7 +3341,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                   onClick={[Function]}
                                 >
                                   <div
-                                    className="bmfxTR"
+                                    className="kMhXl"
                                     onClick={[Function]}
                                   >
                                     <ForwardRef
@@ -2976,9 +3353,9 @@ exports[`DocsLayout renders correctly 1`] = `
                                             "$$typeof": Symbol(react.forward_ref),
                                             "attrs": undefined,
                                             "componentStyle": ComponentStyle {
-                                              "componentId": "sc-jKJlTe",
+                                              "componentId": "sc-kEYyzF",
                                               "isStatic": true,
-                                              "lastClassName": "iIjDed",
+                                              "lastClassName": "hFbWaA",
                                               "rules": Array [
                                                 "
   display: block;
@@ -2993,7 +3370,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                             },
                                             "displayName": "styled.h4",
                                             "render": [Function],
-                                            "styledComponentId": "sc-jKJlTe",
+                                            "styledComponentId": "sc-kEYyzF",
                                             "target": "h4",
                                             "warnTooManyClasses": [Function],
                                             "withComponent": [Function],
@@ -3003,7 +3380,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                         onClick={[Function]}
                                       >
                                         <h4
-                                          className="iIjDed"
+                                          className="hFbWaA"
                                           onClick={[Function]}
                                         >
                                           <Link
@@ -3101,9 +3478,9 @@ exports[`DocsLayout renders correctly 1`] = `
                                       "$$typeof": Symbol(react.forward_ref),
                                       "attrs": undefined,
                                       "componentStyle": ComponentStyle {
-                                        "componentId": "sc-ckVGcZ",
+                                        "componentId": "sc-hMqMXs",
                                         "isStatic": true,
-                                        "lastClassName": "bmfxTR",
+                                        "lastClassName": "kMhXl",
                                         "rules": Array [
                                           "
   margin-bottom: ",
@@ -3114,7 +3491,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                       },
                                       "displayName": "styled.div",
                                       "render": [Function],
-                                      "styledComponentId": "sc-ckVGcZ",
+                                      "styledComponentId": "sc-hMqMXs",
                                       "target": "div",
                                       "warnTooManyClasses": [Function],
                                       "withComponent": [Function],
@@ -3124,7 +3501,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                   onClick={[Function]}
                                 >
                                   <div
-                                    className="bmfxTR"
+                                    className="kMhXl"
                                     onClick={[Function]}
                                   >
                                     <ForwardRef
@@ -3136,9 +3513,9 @@ exports[`DocsLayout renders correctly 1`] = `
                                             "$$typeof": Symbol(react.forward_ref),
                                             "attrs": undefined,
                                             "componentStyle": ComponentStyle {
-                                              "componentId": "sc-jKJlTe",
+                                              "componentId": "sc-kEYyzF",
                                               "isStatic": true,
-                                              "lastClassName": "iIjDed",
+                                              "lastClassName": "hFbWaA",
                                               "rules": Array [
                                                 "
   display: block;
@@ -3153,7 +3530,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                             },
                                             "displayName": "styled.h4",
                                             "render": [Function],
-                                            "styledComponentId": "sc-jKJlTe",
+                                            "styledComponentId": "sc-kEYyzF",
                                             "target": "h4",
                                             "warnTooManyClasses": [Function],
                                             "withComponent": [Function],
@@ -3163,7 +3540,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                         onClick={[Function]}
                                       >
                                         <h4
-                                          className="iIjDed"
+                                          className="hFbWaA"
                                           onClick={[Function]}
                                         >
                                           <Link
@@ -3261,9 +3638,9 @@ exports[`DocsLayout renders correctly 1`] = `
                                       "$$typeof": Symbol(react.forward_ref),
                                       "attrs": undefined,
                                       "componentStyle": ComponentStyle {
-                                        "componentId": "sc-ckVGcZ",
+                                        "componentId": "sc-hMqMXs",
                                         "isStatic": true,
-                                        "lastClassName": "bmfxTR",
+                                        "lastClassName": "kMhXl",
                                         "rules": Array [
                                           "
   margin-bottom: ",
@@ -3274,7 +3651,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                       },
                                       "displayName": "styled.div",
                                       "render": [Function],
-                                      "styledComponentId": "sc-ckVGcZ",
+                                      "styledComponentId": "sc-hMqMXs",
                                       "target": "div",
                                       "warnTooManyClasses": [Function],
                                       "withComponent": [Function],
@@ -3284,7 +3661,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                   onClick={[Function]}
                                 >
                                   <div
-                                    className="bmfxTR"
+                                    className="kMhXl"
                                     onClick={[Function]}
                                   >
                                     <ForwardRef
@@ -3296,9 +3673,9 @@ exports[`DocsLayout renders correctly 1`] = `
                                             "$$typeof": Symbol(react.forward_ref),
                                             "attrs": undefined,
                                             "componentStyle": ComponentStyle {
-                                              "componentId": "sc-jKJlTe",
+                                              "componentId": "sc-kEYyzF",
                                               "isStatic": true,
-                                              "lastClassName": "iIjDed",
+                                              "lastClassName": "hFbWaA",
                                               "rules": Array [
                                                 "
   display: block;
@@ -3313,7 +3690,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                             },
                                             "displayName": "styled.h4",
                                             "render": [Function],
-                                            "styledComponentId": "sc-jKJlTe",
+                                            "styledComponentId": "sc-kEYyzF",
                                             "target": "h4",
                                             "warnTooManyClasses": [Function],
                                             "withComponent": [Function],
@@ -3323,7 +3700,7 @@ exports[`DocsLayout renders correctly 1`] = `
                                         onClick={[Function]}
                                       >
                                         <h4
-                                          className="iIjDed"
+                                          className="hFbWaA"
                                           onClick={[Function]}
                                         >
                                           <Link
@@ -3429,9 +3806,9 @@ exports[`DocsLayout renders correctly 1`] = `
                 "$$typeof": Symbol(react.forward_ref),
                 "attrs": undefined,
                 "componentStyle": ComponentStyle {
-                  "componentId": "sc-kEYyzF",
+                  "componentId": "sc-hSdWYo",
                   "isStatic": false,
-                  "lastClassName": "jOMSpa",
+                  "lastClassName": "jMcxZA",
                   "rules": Array [
                     "
   width: ",
@@ -3487,7 +3864,7 @@ exports[`DocsLayout renders correctly 1`] = `
                 },
                 "displayName": "styled.div",
                 "render": [Function],
-                "styledComponentId": "sc-kEYyzF",
+                "styledComponentId": "sc-hSdWYo",
                 "target": "div",
                 "warnTooManyClasses": [Function],
                 "withComponent": [Function],
@@ -3497,7 +3874,7 @@ exports[`DocsLayout renders correctly 1`] = `
             moveRight={false}
           >
             <div
-              className="jOMSpa"
+              className="jMcxZA"
               data-e2e-id="content"
             >
               <ForwardRef>
@@ -3507,9 +3884,9 @@ exports[`DocsLayout renders correctly 1`] = `
                       "$$typeof": Symbol(react.forward_ref),
                       "attrs": undefined,
                       "componentStyle": ComponentStyle {
-                        "componentId": "sc-kkGfuU",
+                        "componentId": "sc-eHgmQL",
                         "isStatic": true,
-                        "lastClassName": "jMFDDF",
+                        "lastClassName": "ixZdHs",
                         "rules": Array [
                           "
   display: block;
@@ -3528,7 +3905,7 @@ exports[`DocsLayout renders correctly 1`] = `
                       },
                       "displayName": "styled.h1",
                       "render": [Function],
-                      "styledComponentId": "sc-kkGfuU",
+                      "styledComponentId": "sc-eHgmQL",
                       "target": "h1",
                       "warnTooManyClasses": [Function],
                       "withComponent": [Function],
@@ -3537,7 +3914,7 @@ exports[`DocsLayout renders correctly 1`] = `
                   forwardedRef={null}
                 >
                   <h1
-                    className="jMFDDF"
+                    className="ixZdHs"
                   />
                 </BaseStyledComponent>
               </ForwardRef>

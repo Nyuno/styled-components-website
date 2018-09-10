@@ -2,13 +2,13 @@
 
 exports[`MobileNavbar renders correctly 1`] = `
 <div
-  className="bKEueB"
+  className="kvPSzS"
 >
   <button
-    className="hvtXqd"
+    className="ldehJf"
   >
     <svg
-      className="vnfTY"
+      className="fVXPqs"
       height="15"
       width="15"
       xmlns="http://www.w3.org/2000/svg"
@@ -32,22 +32,22 @@ exports[`MobileNavbar renders correctly 1`] = `
   </button>
   <a
     aria-label="styled components"
-    className="gViPaM"
+    className="ePZooh"
     href="/"
     onClick={[Function]}
   >
     <div
-      className="jpKWNe"
+      className="sLZqa"
     />
   </a>
   <button
-    className="hvtXqd"
+    className="ldehJf"
   >
     <div
-      className="gQExVJ"
+      className="krbKjx"
     >
       <svg
-        className="vnfTY"
+        className="fVXPqs"
         height="8"
         width="12"
         xmlns="http://www.w3.org/2000/svg"
@@ -71,33 +71,33 @@ exports[`MobileNavbar renders correctly 1`] = `
     </div>
   </button>
   <div
-    className="jtcatA"
+    className="dyNnKV"
   >
     <nav
-      className="bLzvOe"
+      className="JGuVx"
     >
       <a
-        className="keHQlY"
+        className="UIrgd"
         href="/docs"
         onClick={[Function]}
       >
         Documentation
       </a>
       <span
-        className="dGciJH"
+        className="kMiUMD"
       />
       <a
-        className="keHQlY"
+        className="UIrgd"
         href="/ecosystem"
         onClick={[Function]}
       >
         Ecosystem
       </a>
       <span
-        className="dGciJH"
+        className="kMiUMD"
       />
       <a
-        className="keHQlY"
+        className="UIrgd"
         href="/releases"
         onClick={[Function]}
       >
@@ -105,21 +105,54 @@ exports[`MobileNavbar renders correctly 1`] = `
       </a>
     </nav>
     <span
-      className="dGciJH"
+      className="kMiUMD"
     />
     <div
-      className="eVtpYT"
+      className="jdhLjy"
     >
+      <form
+        className="cuiSQS"
+      >
+        <button
+          className="kFISaI"
+        >
+          <svg
+            height="16"
+            width="15"
+            xmlns="http://www.w3.org/2000/svg"
+            xmlnsXlink="http://www.w3.org/1999/xlink"
+          >
+            <title>
+              search
+            </title>
+            <use
+              fill="#FFF"
+              xlinkHref="#search-icon"
+            />
+            <defs>
+              <path
+                d="M14.772 14.573l-3.698-3.96c.95-1.164 1.472-2.628 1.472-4.153C12.546 2.898 9.732 0 6.273 0 2.813 0 0 2.898 0 6.46s2.814 6.46 6.273 6.46c1.298 0 2.536-.403 3.594-1.17l3.726 3.992c.155.166.365.258.59.258.212 0 .413-.083.566-.235.32-.322.33-.857.02-1.192zm-8.5-12.888c2.558 0 4.637 2.142 4.637 4.775 0 2.633-2.08 4.775-4.64 4.775-2.56 0-4.64-2.142-4.64-4.775 0-2.633 2.08-4.775 4.637-4.775z"
+                id="search-icon"
+              />
+            </defs>
+          </svg>
+        </button>
+        <input
+          className="hTGoLT"
+          id="docs-search-input"
+          placeholder="Search docs ..."
+        />
+      </form>
       <nav
-        className="eegKxx"
+        className="ckFdvu"
       >
         <a
-          className="hvDRgH"
+          className="evEeRO"
           href="https://spectrum.chat/styled-components/"
           onClick={[Function]}
         >
           <svg
-            className="jvZNMc"
+            className="gxjdeE"
             height="14"
             viewBox="0 0 15 15"
             width="14"
@@ -134,12 +167,12 @@ exports[`MobileNavbar renders correctly 1`] = `
           </svg>
         </a>
         <a
-          className="hvDRgH"
+          className="evEeRO"
           href="https://github.com/styled-components"
           onClick={[Function]}
         >
           <svg
-            className="hykfmK"
+            className="JePPz"
             height="17"
             viewBox="0 0 17 17"
             width="17"
@@ -154,12 +187,12 @@ exports[`MobileNavbar renders correctly 1`] = `
           </svg>
         </a>
         <a
-          className="hvDRgH"
+          className="evEeRO"
           href="https://medium.com/styled-components"
           onClick={[Function]}
         >
           <svg
-            className="gMQSSV"
+            className="hfCcmC"
             height="14"
             viewBox="0 0 17 14"
             width="17"

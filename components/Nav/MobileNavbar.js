@@ -1,6 +1,6 @@
 import React from 'react'
 import styled, { css } from 'styled-components'
-
+import SearchWithAlgolia from './SearchWithAlgolia'
 import rem from '../../utils/rem'
 import { navbarHeight } from '../../utils/sizes'
 import { paleGrey } from '../../utils/colors'
@@ -105,6 +105,7 @@ const MobileNavbar = props => {
         <NavLinks />
         <NavSeparator />
         <SecondaryMenuItem>
+          <SearchWithAlgolia />
           <Social />
         </SecondaryMenuItem>
       </SecondaryMenu>
